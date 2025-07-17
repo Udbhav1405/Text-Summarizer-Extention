@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "InfoBite",
+  "version": "1.0",
+  "description": "Summarize text from any input.",
+  "action": {
+      "default_popup": "popup.html"
+  },
+  "permissions": [
+      "activeTab"
+  ]
+  ,"icons":{
+    "128": "icon16.png",
+    "64":"icon48.png",
+    "16": "icon128.png"
+
+  }
+
+}
